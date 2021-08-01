@@ -1,4 +1,4 @@
-#There are generaly 5 types of data structuring :
+#There are generaly 5 types of data structes in python :
 
 
                             #1-STRINGS :
